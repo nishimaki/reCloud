@@ -1,0 +1,7 @@
+node_modules/
+bower_components/
+npm-debug.log
+backup/
+*.pdf
+report/node_modules/
+report/_build/
